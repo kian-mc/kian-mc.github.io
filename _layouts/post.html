@@ -10,6 +10,16 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+  {% if page.image1 %}
+  <article class="img1">
+    <p><img src="/imgs/{{ page.image1 }}"><p>
+  </article>
+  {% endif %}
+  {% if page.image2 %}
+  <article class="img1">
+    <p><img src="/imgs/{{ page.image2 }}"><p>
+  </article>
+  {% endif %}
   {% if page.youtube %} 
   <div class="embed-container">
   <iframe
