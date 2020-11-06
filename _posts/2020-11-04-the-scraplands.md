@@ -1,0 +1,12 @@
+---
+title: The Scraplands
+author: Kian McIntosh
+---
+The Scraplands
+
+The scraplands are a place of mystery and wonder and are the home of countless dwarfs who construct and build magnificent machines and contraptions. The dwarfs are from the planet 
+Tabslock and were originally mechanics who built mighty farmbots that work on the farming planet Fault. The planet Fault was originally a tropical planet that used to house fish in the mighty oceans, but was recognized by the Vega Corporation who saw there was profit to be made. Fault became full of vast fields of many diverse crops that were too hard to grow on 
+Tabslock. Vast numbers of worker dwarfs were hired to manufacture various models of different arm based robots or Farmbots. For the past 35 years, the Farmbots were working tirelessly in order to farm crops and deliver them to various Warehouses across the island of Fault. About 15 years ago, stray EMP rays were cast from space in what seemed like an accident. During the attack from seemingly nowhere  the Farmbots started to go rogue and damage the crops in total anarchy. At the time Vega did not know what was happening and sent two mechanic ships to Fault for a routine check up on the bots. As the first of the ships entered orbit a green light was growing from one of the Warehouses And then all the sudden a beam of light and cargo shot past and damaged one of the wings completely ripping it off with the engine. The second ship was split in two and all three damaged masses started crashing toward Fault!
+
+As the first ship entered the atmosphere of Fault the outer hull of the vessel was heating to temperatures so hot that if the hull wasn't made of Hardened Röughmt the ship would melt into drops of liquid instantly. Inside of the ship, one of the mechanics was panicking and the other three of them were running towards the escape pods oblivious to the fact that two of their fellow crewmates were stuck to their seats pinned by a steel rod. The three mechanics who still had freedom of mobility immediately launched their escape pods into the mighty fields of Fault. They were all guided to different islands across Fault leaving them stranded by themselves.
+Of the 2 who were stuck on the ship, one was continuous but was powerless as they fell closer and closer to their immediate doom. Everything becomes black, dark, and quiet. The 2 pieces of what used to be ship 2 crashed into the soft soil of Fault creating massive craters.
